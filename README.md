@@ -1,5 +1,13 @@
 # Prisma
 
+## Branch Tree
+```markdown
+├── main
+│   ├── initial-setup-sqlite
+│   │   └── sqlite-add-tables
+│   ├── initial-setup-postgres ( todo )
+```
+
 ## How to Run
 ```bash
 npm install
