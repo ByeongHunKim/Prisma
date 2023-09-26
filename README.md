@@ -63,5 +63,10 @@ npx prisma init --datasource-provider sqlite
 npx prisma migrate dev --name init
 ```
 
+## 2.3 How to run Prisma Studio
+```bash
+npx prisma studio
+```
+
 # 3. Todo
 1. create branch and try to setting `PostgresSQL` 
